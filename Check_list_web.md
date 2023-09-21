@@ -222,3 +222,4 @@ Spoon.net: Spoon.net предоставляет доступ к тысячам �
 - Load Runner  
 - Borland Silk Performer  
 - Rational Performance Tester  
+- WAPT  
