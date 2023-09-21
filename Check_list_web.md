@@ -221,3 +221,4 @@ Spoon.net: Spoon.net предоставляет доступ к тысячам �
 - Apache JMeter  
 - Load Runner  
 - Borland Silk Performer  
+- Rational Performance Tester  
